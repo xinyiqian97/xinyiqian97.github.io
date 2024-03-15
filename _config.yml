@@ -21,21 +21,21 @@ repository               : "xinyiqian97/xinyiqian97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xinyi Qian"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of California, Berkeley"
+  location         : "Berkeley, CA"
+  employer         : "UC Berkeley"
   uri              : # URL
   email            : "xinyiqian@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0009-0006-2072-9423"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
