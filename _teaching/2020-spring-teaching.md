@@ -1,7 +1,7 @@
 ---
-title: "CE 132 Applied Structural Mechanics | Graduate Student Instructor"
+title: "CE 132 Applied Structural Mechanics"
 collection: teaching
-type: "Upper Level Undergraduate course"
+type: "Graduate Student Instructor"
 permalink: /teaching/2020-spring-teaching
 venue: "UC Berkeley, Department of Civil and Environmental Engineering"
 date: 2020 Jan-May
