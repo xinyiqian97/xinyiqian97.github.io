@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   #- title: "Talks"
    # url: /talks/    
@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
     
   - title: "CV"
     url: /cv/
@@ -19,4 +19,4 @@ main:
     url: /service/
     
   - title: "Other"
-    url: /markdown/
+    url: /other/
