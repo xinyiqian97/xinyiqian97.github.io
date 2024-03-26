@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyi Qian / Personal Webpage"
+title                    : "Xinyi Qian"
 title_separator          : "-"
 name                     : &name "Xinyi Qian"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xinyi Qian"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   uri              : # URL
