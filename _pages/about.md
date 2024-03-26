@@ -11,7 +11,7 @@ Hi! I'm Xinyi Qian, a final year Ph.D. candidate in the [Department of Civil and
 
 Research Interest
 ======
-My research interests include computational geomechnics.
+My research interests are mainly related to computational solid mechanics (especially geomechanics). I’m interested in both the formulation of different methods (from continuum to discrete) and numerical simulations of material behavior and natural phenomena. Mechanism analysis is of special interest. My current research mostly focuses on discrete element simulations of granular materials via high-performance computing. But I’m also familiar with the material point method and finite element method. Besides, I have developed expertise in computer algorithms and data analysis.
 
 Contact
 ======
