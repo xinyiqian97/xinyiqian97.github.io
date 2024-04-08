@@ -30,7 +30,7 @@ Skills
 * Programming
   * Language: C++, Python, MATLAB, R
   * Parallel programming: OpenMP, MPI, CUDA
-* Particle Simulation Code: LIGGGHTS, PFC
+* Particle Simulation Tool: LIGGGHTS, PFC
 * Engineering Software: PLAXIS, SolidWorks, AutoCAD 
 
 Publications
