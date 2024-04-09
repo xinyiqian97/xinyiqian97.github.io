@@ -12,8 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in GeoSystems Engineering, University of California, Berkeley, 2024 (expected)
+  * Minor in Mechanics and Computer Science
 * M.S. in GeoSystems Engineering, University of California, Berkeley, 2019
 * B.S. in Civil Enigneering, Tsinghua University, 2018
+  * Minor in Mathematics
 
 Research experience
 ======
