@@ -15,13 +15,17 @@ Education
 * M.S. in GeoSystems Engineering, University of California, Berkeley, 2019
 * B.S. in Civil Enigneering, Tsinghua University, 2018
 
-Work experience
+Research experience
 ======
-* Summer 2019 - current: Graduate Student Researcher
+* June 2019 - current: Graduate Student Researcher
   * University of California, Berkeley
   * Advisor: Professor Jonathan D. Bray
+ 
+* Dec 2018 - May 2019: Graduate Research Assistant
+  * University of California, Berkeley
+  * Advisor: Professor Kenichi Soga
 
-* Spring 2017 - Summer 2018: Research Assistant
+* March 2017 - July 2018: Research Assistant
   * Tsinghua University
   * Advisor: Professor Xiaodong Ji
 
