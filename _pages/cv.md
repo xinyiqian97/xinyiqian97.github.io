@@ -42,8 +42,6 @@ Skills
 Awards
 ======
 * Jane Lewis Fellowship (in Mining Engineering and Related Fields)
-  * Language: C++, Python, MATLAB, R
-  * Parallel programming: OpenMP, MPI, CUDA
 * Zheng Gere Scholarship, First Tier (5 out of 150)
 * Structural Design Competition, Second Prize
 
