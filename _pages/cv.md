@@ -39,7 +39,7 @@ Skills
 * Particle Simulation Tool: LIGGGHTS, PFC
 * Engineering Software: PLAXIS, SolidWorks, AutoCAD
 
-Awards
+Honors and Awards
 ======
 * Jane Lewis Fellowship (in Mining Engineering and Related Fields), UC Berkeley 2020 & 2022
 * Departmental Block Grant, UC Berkeley 2019
