@@ -8,6 +8,5 @@ date: 2023 Aug-Dec
 location: "Berkeley, CA"
 ---
 
-Led a team of 7 lab TAs for this course with 500+ enrollment, and I was in charge of preparing lab materials.
-
+Led a team of 7 lab TAs for this course with 500+ enrollment and was in charge of preparing lab materials.
 
