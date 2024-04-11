@@ -41,9 +41,15 @@ Skills
 
 Awards
 ======
-* Jane Lewis Fellowship (in Mining Engineering and Related Fields)
-* Zheng Gere Scholarship, First Tier (5 out of 150)
-* Structural Design Competition, Second Prize
+* Jane Lewis Fellowship (in Mining Engineering and Related Fields), UC Berkeley 2020 & 2022
+* Departmental Block Grant, UC Berkeley 2019
+* Zheng Geru Scholarship, First Tier (5 out of 150), Tsinghua University 2015
+
+  
+* Second Prize, 22nd Tsinghua University Structural Design Competition 2016
+* First Prize, Chiha High School Mathematics Plympiad 2013
+* First Prize, Chiha High School Chemistry Plympiad 2013
+* Third Prize, Chiha High School Biology Plympiad 2013
 
 Publications
 ======
