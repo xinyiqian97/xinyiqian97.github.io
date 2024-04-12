@@ -48,9 +48,9 @@ Honors and Awards
 ------        
   
 * Second Prize, 22nd Tsinghua University Structural Design Competition 2016
-* First Prize, Chiha High School Mathematics Plympiad 2013
-* First Prize, Chiha High School Chemistry Plympiad 2013
-* Third Prize, Chiha High School Biology Plympiad 2013
+* First Prize, China High School Mathematics Plympiad 2013
+* First Prize, China High School Chemistry Plympiad 2013
+* Third Prize, China High School Biology Plympiad 2013
 
 Publications
 ======
