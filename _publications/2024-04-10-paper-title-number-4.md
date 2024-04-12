@@ -1,5 +1,5 @@
 ---
-title: "Numerical Simulation of the Static Stable Arching in Cohesionless Granular Materials Using Trapdoor Test"
+title: "Static Stable Arching in Granular Materials Using Trapdoor Discrete Element Simulations"
 collection: publications
 permalink: /publication/2024-04-10-paper-title-number-4
 excerpt: 'This paper is about the static stable arching in granular materials.'
