@@ -3,7 +3,7 @@ title: "Static Stable Arching in Granular Materials Using Trapdoor Discrete Elem
 collection: publications
 permalink: /publication/2024-04-10-paper-title-number-4
 excerpt: 'This paper is about the forming process and stability analysis of static stable arching in granular materials.
-KEYWORDS: Discrete Element Method, stabled arch, trapdoor test'
+KEYWORDS: Discrete Element Method, statically stable arch, trapdoor test'
 date: 2024-04-10
 venue: '(Under Review)'
 citation: 'X. Qian, F. E. Garcia, J. D. Bray (2024). &quot;Numerical Simulation of the Static Stable Arching in Cohesionless Granular Materials Using Trapdoor Test.&quot; <i>(Under Review)</i>. 1(1).'
