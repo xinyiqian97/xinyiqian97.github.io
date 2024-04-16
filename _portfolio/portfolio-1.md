@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/demo1.jpg'>"
+title: "Soil Arching"
+excerpt: "Density effect on soil response in arching phenomenon 1<br/><img src='/images/demo1.jpg'>"
 collection: portfolio
 ---
 
