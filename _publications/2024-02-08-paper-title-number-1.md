@@ -2,7 +2,7 @@
 title: "Element Investigation of the Role of Relative Density in Soil Arching Phenomena."
 collection: publications
 permalink: /publication/2024-02-08-paper-title-number-1
-excerpt: 'This paper is about DEM simulations about soil arching phenomenon. How factors including relative density, particle shape, soil height influences tha mechanism of arching are investigated with micromechanical insights. 
+excerpt: 'This paper is about DEM simulations about soil arching phenomenon. How factors including relative density, particle shape, soil height influences the mechanism of arching are investigated with micromechanical insights. 
 KEYWORDS: dilatancy, discrete element, relative density, soil arching, trapdoor. '
 date: 2024-02-08
 venue: '(Under review)'
