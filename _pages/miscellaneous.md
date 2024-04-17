@@ -6,8 +6,7 @@ author_profile: true
 ---
 View after rain from the top of my favorite mountain.
 <br/><img src='/images/view.jpg'>
-Other hobbies
-<br/><img src='/images/life.jpg'>
+
 
 More about me
 ======
@@ -16,3 +15,5 @@ More about me
 * I played Guzheng, a traditional Chinese instrument, since I was 9.
 * I learned painting for five years, including sketching, gouache, and ink painting. I kept the habit of doing line sketches for more than 20 years.
 
+<br/><img src='/images/life.jpg'>
+Other hobbies
