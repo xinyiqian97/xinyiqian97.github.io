@@ -4,8 +4,10 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
 ---
-
-<br/><img src='/images/demo1.jpg'>
+View after rain from the top of my favorite mountain.
+<br/><img src='/images/view.jpg'>
+Other hobbies
+<br/><img src='/images/life.jpg'>
 
 More about me
 ======
