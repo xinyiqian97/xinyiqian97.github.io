@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-
+<br/><img src='/images/demo1.jpg'>
 
 More about me
 ======
