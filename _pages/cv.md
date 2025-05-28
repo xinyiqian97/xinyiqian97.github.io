@@ -22,7 +22,7 @@ Research experience
 * July 2024 - current: Postdoctoral Scholar
   * Stanford University
   * Advisor: Professor Paul Segall & Professor Adrian Lew
-  * 
+
 * June 2019 - May 2024: Graduate Student Researcher
   * University of California, Berkeley
   * Advisor: Professor Jonathan D. Bray
