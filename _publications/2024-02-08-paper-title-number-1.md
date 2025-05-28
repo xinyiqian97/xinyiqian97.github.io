@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-08-paper-title-number-1
 excerpt: 'This paper is about DEM simulations about soil arching phenomenon. How factors including relative density, particle shape, soil height influences the mechanism of arching are investigated with micromechanical insights. 
 KEYWORDS: dilatancy, discrete element, relative density, soil arching, trapdoor. '
-date: 2025
+date: 2025-05-28
 venue: 'International Journals of Geomechanics'
 citation: 'F. E. Garcia, X. Qian, J. D. Bray (2025). &quot;Discrete Element Investigation of the Role of Relative Density in Soil Arching Phenomena.&quot; <i>Int. J. Geomech.</i>.'
 ---
