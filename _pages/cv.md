@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in GeoSystems Engineering, University of California, Berkeley, 2024 (expected)
+* Ph.D in GeoSystems Engineering, University of California, Berkeley, 2024
   * Minor in Mechanics and Computer Science
 * M.S. in GeoSystems Engineering, University of California, Berkeley, 2019
 * B.S. in Civil Enigneering, Tsinghua University, 2018
@@ -19,7 +19,11 @@ Education
 
 Research experience
 ======
-* June 2019 - current: Graduate Student Researcher
+* July 2024 - current: Postdoctoral Scholar
+  * Stanford University
+  * Advisor: Professor Paul Segall & Professor Adrian Lew
+  * 
+* June 2019 - May 2024: Graduate Student Researcher
   * University of California, Berkeley
   * Advisor: Professor Jonathan D. Bray
  
