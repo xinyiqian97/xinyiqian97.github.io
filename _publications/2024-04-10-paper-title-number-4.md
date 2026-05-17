@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-04-10-paper-title-number-4
 excerpt: 'This paper is about the forming process and stability analysis of static stable arching in granular materials.
 KEYWORDS: Discrete Element Method, Particulate Media, Statically Stable Arch, Trapdoor'
-date: 2024-04-10
+date: 2026-02-10
 venue: 'International Journal of Geomechanics'
 citation: 'X. Qian, F. E. Garcia, J. D. Bray (2026). &quot;Numerical Simulation of the Static Stable Arching in Cohesionless Granular Materials Using Trapdoor Test.&quot; <i>Int. J. Geomech.</i>. 1(1).'
 ---
